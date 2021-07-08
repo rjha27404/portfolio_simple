@@ -1,0 +1,44 @@
+.btn1{
+	color: white;
+}
+.name{
+	margin: 50px;
+	border: 5px solid white;
+}
+.img1{
+	height:500px;
+	width:500px;
+	margin: 50px;
+	margin-left: 300px;
+}
+.row1{
+	background: lightblue;
+	color: blue;
+}
+.row2{
+	background: white;
+	color:black;
+
+
+}
+.a1{
+	margin-top: 50px;
+	margin-left: 300px;
+	border: 5px solid white;
+}
+.foot{
+	margin-top: 50px;
+	margin-left: 300px;
+	color:black;
+}
+.foot2{
+	margin-right: 50px;
+}
+.foot1{
+	margin-left: 300px;
+	
+}
+.row3{
+	color:black;
+	margin-top: 20px;
+}
